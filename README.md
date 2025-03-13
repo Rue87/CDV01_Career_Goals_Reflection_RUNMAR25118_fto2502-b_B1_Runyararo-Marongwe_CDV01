@@ -59,6 +59,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+     
       Alignment with skills.
 
 Problem-Solving:
@@ -88,7 +89,7 @@ Technology and Innovation:
 Alignment with Values:
 
 Impact and Contribution:
-     Web development enables the creation of tools and platforms that can have a positive impact on individuals and society.
+      Web development enables the creation of tools and platforms that can have a positive impact on individuals and society.
      This aligns with a value of contributing to meaningful projects.
 Collaboration:
      Web development is a matter of team work,therefore, this can align with values of team work, and communication.
@@ -96,6 +97,17 @@ Adaptability:
      The industry requires you to be adaptable, and flexible. This aligns with the value of being able to change, and grow.
       
     - Identify any gaps or areas for further exploration.
+Gap:
+    The implemantation of AI in the healthsector for early warning systems for various healthcare challenges. 
+Exploration:
+    AI-powered diagnostic tools can assist healthcare professionals by analyzing X-Rays, lab results ,and patient histories to identify conditins more accurately and 
+    quickly.
+    
+Gap:
+    Web development can be strenuous and that can lead to developer burnout and reduced productivity.
+Exploration:
+    Developing AI-powered code generation and debugging tools.
+    
 3. **Interests and Values**:
     
     - Describe your key interests related to your career.
