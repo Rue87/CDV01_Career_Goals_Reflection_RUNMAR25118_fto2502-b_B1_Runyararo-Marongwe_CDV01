@@ -16,18 +16,26 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Runyararo Marongwe
+- **Date:** 13 March
+- **Current Role/Position:** Student
+- **Field of Interest:** Web Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
+
+ **Current skills and areas of expertise**
+            -HTML
+            -Advanced CSS concepts
+            -GitHub
+            -Google Services
+   **Skills you need to develop or improve**
+            -JavaScript
+            -Responsive Design
+            -CSS Frameworks
+    -
+3. **Interests and Values**:
     
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
