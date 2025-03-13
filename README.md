@@ -39,6 +39,7 @@ By completing this reflection, you will gain a clearer understanding of your car
             -Back-end languages
             -Problem solving
             -Adaptability
+            -Creativity
             
 3. **Interests and Values**:
     
@@ -58,6 +59,42 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+      Alignment with skills.
+
+Problem-Solving:
+     As a Web developer,breaking down complex problems into smaller, manageable tasks is a skill that we are supposed to possess.It aligns with strong analytical and 
+     problem-solving skills.
+     Logical thinking and attention to detail are skills required for debugging and trouble shooting, as these are core components.
+Technical Proficiency:
+     As a Web developer there is need to master various programming languages,and tools fosters continuous skill developement.This aligns with a desire to learn and stay 
+     up-to-date with technological advancements.
+Creativity:
+     Front-end development, in particular, allows for the expression of creativity through UI/UX design.
+     Even back-end development requires creative solutions to optimize performance and functionality.
+
+Alignment with Interests:
+
+Continuous Learning:
+     The ever-evolving nature of web development satisfies a curiosity and desire for ongoing learning.
+     Staying current with new technologies and trends provides intellectual stimulation.
+     
+Building and Creating:
+     Web development offers the opportunity to build tangible products that people interact with.
+     This aligns with an interest in creating and bringing ideas to life.
+     
+Technology and Innovation:
+     Working with cutting-edge technologies and contributing to the digital landscape aligns with an interest in technology and innovation.
+     
+Alignment with Values:
+
+Impact and Contribution:
+     Web development enables the creation of tools and platforms that can have a positive impact on individuals and society.
+     This aligns with a value of contributing to meaningful projects.
+Collaboration:
+     Web development is a matter of team work,therefore, this can align with values of team work, and communication.
+Adaptability:
+     The industry requires you to be adaptable, and flexible. This aligns with the value of being able to change, and grow.
+      
     - Identify any gaps or areas for further exploration.
 3. **Interests and Values**:
     
