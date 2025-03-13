@@ -30,11 +30,16 @@ By completing this reflection, you will gain a clearer understanding of your car
             -Advanced CSS concepts
             -GitHub
             -Google Services
-   **Skills you need to develop or improve**
+            -Communication
+   **Skills I need to develop or improve**
             -JavaScript
             -Responsive Design
             -CSS Frameworks
-    -
+            -Databases
+            -Back-end languages
+            -Problem solving
+            -Adaptability
+            
 3. **Interests and Values**:
     
     - Describe your key interests related to your career.
@@ -44,12 +49,21 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
+   List the industries or roles you have researched.
+      -Healthcare Nutrition
+      -advertising
+      -Marketing
     - Note any particular areas that piqued your interest.
+      -Web development is fast-paced and always evolving, but the most interesting thing is that it's challenging and it's all about creativity, therefore it can never be boring.
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
     - Identify any gaps or areas for further exploration.
+3. **Interests and Values**:
+    
+    - Describe your key interests related to your career.
+    - What values are important to you in a work environment?
+
 
 ### Part 3: SMART Career Goals
 
