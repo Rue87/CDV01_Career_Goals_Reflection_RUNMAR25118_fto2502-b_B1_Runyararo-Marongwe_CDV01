@@ -208,6 +208,7 @@ Learning by Doing: Building projects is a very effective way to learn. You will 
    
  **Outline your long-term career aspirations**.
     -Continuous Learning and Adaptation:
+    -Goal: Become a Senior Full-Stack Developer 
     - Describe how these align with your interests and skills.
 
 ### Part 4: Action Plan
