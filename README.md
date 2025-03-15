@@ -151,7 +151,26 @@ Achievable: Dedicate consistent time to practice and coding exercises.
 Relevant: These are the foundational skills for full-stack development.
 Time-bound: Ongoing within the next 1-2 years.
 
-Goal:
+Goal: Implement Version Control with Git like a Pro
+Specific: Become proficient in using Git for version control.
+Measurable: Use Git for all personal projects, including branching, merging, and resolving conflicts.
+Achievable: Practice Git commands regularly and use platforms like GitHub or GitLab.
+Relevant: Git is essential for collaborative development and managing code.
+Time-bound: Within the next 6 months.
+
+Goal: Learn Basic Database Management
+Specific: Gain fundamental knowledge of database concepts and SQL (or NoSQL).
+Measurable: Successfully design and implement a database schema for a personal project.
+Achievable: Complete online tutorials and practice the same.
+Relevant: Database skills is the backbone for back-end development.
+Time-bound: Within the next 12 months
+
+Goal: Build a Portfolio of Functional Web Applications
+Specific: Create 3-5 web applications demonstrating both front-end and back-end skills.
+Measurable: Each application should include a functional user interface, database integration, and basic authentication.
+Achievable: Aim to complete one project every 4-6 months alongside coursework.
+Relevant: A portfolio is crucial for showcasing skills to potential employers.
+Time-bound: Complete within 2 years.
 
 
     - Explain the rationale behind each goal.
