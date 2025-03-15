@@ -174,9 +174,40 @@ Time-bound: Complete within 2 years.
 
 
     - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
+     
+Goal: Master Core Web Development Technologies
+Rationale:
+Foundation for Success: HTML, CSS, JavaScript, and a back-end language/framework are the fundamental building blocks of web development. Without a solid understanding of these technologies, you'll struggle to build simple to complex applications.
+Problem-Solving: Mastering these core languages provides the tools needed to solve problems encountered during development.
+Flexibility: A strong grasp of the fundamentals allows for greater flexibility when switching between different technologies and makes one to be proficient.
     
-    - Outline your long-term career aspirations.
+Goal: Implement Version Control with Git like a Pro
+Rationale:
+Code Management: Git allows you to track changes to your code, revert to previous versions, and collaborate with others effectively.
+Industry Standard: Git is the industry standard for version control. As developers we are expected to be proficient when mplementing it.
+Collaboration: Even for personal projects, Git allows you to organize your code in a way that allows for easier collaboration in the future.
+Professionalism: Using Git demonstrates a professional approach to development.
+
+Goal: Learn Basic Database Management
+Full-Stack Development: Understanding how databases work is a key aspect of full-stack development.
+Problem Solving: Learning how to structure and query databases develops valuable problem solving skills.
+
+Goal: Build a Portfolio of Functional Web Applications
+Rationale:
+Demonstration of Skills:A portfolio is the best way to showcase my coding skills, problem-solving abilities, and understanding of full-stack concepts.
+Practical Experience:  This solidifies my understanding and helps me identify areas where you need to improve.
+Career Advancement: A strong portfolio significantly increases my chances of landing a job or internship.
+Learning by Doing: Building projects is a very effective way to learn. You will encounter problems and learn to overcome them.
+
+2. **Long-term Goals** (3-5 years and beyond):
+3. 
+    Goals: Contribute meaningfully to the Tech Community
+           Become a Senior Full-Stack Developer
+           Stay Ahead of Emerging Technologies
+   Time-bound: Ongoing
+   
+ **Outline your long-term career aspirations**.
+    -Continuous Learning and Adaptation:
     - Describe how these align with your interests and skills.
 
 ### Part 4: Action Plan
