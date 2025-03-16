@@ -92,7 +92,7 @@ Collaboration:
 Adaptability:
      The industry requires you to be adaptable, and flexible. This aligns with the value of being able to change, and grow.
       
-Identify any gaps or areas for further exploration.
+**Gaps or areas for further exploration**
 
 Gap:
     The implemantation of AI in the healthsector for early warning systems for various healthcare challenges. 
@@ -128,8 +128,8 @@ Technological Curiosity:
   -l have a strong interest in how technology works, and a drive to explore new technologies, this is a very strong trait that keeps me going as a developer as it allows 
    me to adapt to changing industry demands.
 
+**Important values to me in a work environment*
 
- **Important values in a work environment**
  -Integrity
  -Responsibility
  -Respect
