@@ -92,7 +92,7 @@ Collaboration:
 Adaptability:
      The industry requires you to be adaptable, and flexible. This aligns with the value of being able to change, and grow.
       
-Identify any gaps or areas for further exploration.
+**Gaps or areas for further exploration**
 
 Gap:
     The implemantation of AI in the healthsector for early warning systems for various healthcare challenges. 
@@ -128,8 +128,7 @@ Technological Curiosity:
   -l have a strong interest in how technology works, and a drive to explore new technologies, this is a very strong trait that keeps me going as a developer as it allows 
    me to adapt to changing industry demands.
 
-
- What values are important to you in a work environment?
+**Important values to me in a work environment**
  -Integrity
  -Responsibility
  -Respect
@@ -173,7 +172,7 @@ Relevant: A portfolio is crucial for showcasing skills to potential employers.
 Time-bound: Complete within 2 years.
 
 
-    - Explain the rationale behind each goal.
+**The rationale behind each goal**
      
 Goal: Master Core Web Development Technologies
 Rationale:
