@@ -128,7 +128,8 @@ Technological Curiosity:
   -l have a strong interest in how technology works, and a drive to explore new technologies, this is a very strong trait that keeps me going as a developer as it allows 
    me to adapt to changing industry demands.
 
-**Important values to me in a work environment**
+**Important values to me in a work environment*
+
  -Integrity
  -Responsibility
  -Respect
