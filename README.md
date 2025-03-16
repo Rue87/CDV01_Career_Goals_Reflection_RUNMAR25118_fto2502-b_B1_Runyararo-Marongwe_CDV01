@@ -129,7 +129,7 @@ Technological Curiosity:
    me to adapt to changing industry demands.
 
 
- What values are important to you in a work environment?
+ **Important values in a work environment**
  -Integrity
  -Responsibility
  -Respect
@@ -173,7 +173,7 @@ Relevant: A portfolio is crucial for showcasing skills to potential employers.
 Time-bound: Complete within 2 years.
 
 
-    - Explain the rationale behind each goal.
+**The rationale behind each goal**
      
 Goal: Master Core Web Development Technologies
 Rationale:
